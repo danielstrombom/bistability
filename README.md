@@ -1,5 +1,7 @@
 # bistability
 
+Code for Strömbom et al. 2022. Bistability and Switching Behavior in Moving Animal Groups. Northeast Journal of Complex Systems 4 (1), Article 1. https://orb.binghamton.edu/nejcs/vol4/iss1/1/
+
 INSTRUCTIONS FOR (RE)GENERATING FIGURES 1AC and 2A-D VIA NEW SIMULATIONS.
 
 Download the folders Fig1 and Fig2 to your computer.
